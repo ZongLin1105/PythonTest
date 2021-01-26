@@ -1,0 +1,5 @@
+a = eval(input("請輸入一正整數a:"))
+b = eval(input("請輸入一正整數b:"))
+c = eval(input("請輸入一正整數c:"))
+d = eval(input("請輸入一正整數d:"))
+print("a= %d，b= %d，c= %d， a+b= %d" % (a,b,c,a+b))
